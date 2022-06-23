@@ -1,7 +1,7 @@
 # 고객데이터 분석을 바탕으로 맞춤 마케팅 제언
 
 - 🍀 CAKD5 1st project
-- 📹 [Youtube]() , ([https://docs.google.com/presentation/d/1pmBbn0NuesvNO-vzAuRdGg0Ph0q09odh/edit?usp=sharing&ouid=116368231704837867107&rtpof=true&sd=true](https://youtu.be/WQRdTBl1lMM))
+- 📹 [Youtube]([https://docs.google.com/presentation/d/1pmBbn0NuesvNO-vzAuRdGg0Ph0q09odh/edit?usp=sharing&ouid=116368231704837867107&rtpof=true&sd=true](https://youtu.be/WQRdTBl1lMM)
 
 ## Project 1
 
