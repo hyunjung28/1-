@@ -1,7 +1,7 @@
 # 고객데이터 분석을 바탕으로 맞춤 마케팅 제언
 
 - 🍀 CAKD5 1st project
-- 📹 [Youtube]() , 🖇️ [presentation slide]([https://docs.google.com/presentation/d/1pmBbn0NuesvNO-vzAuRdGg0Ph0q09odh/edit?usp=sharing&ouid=116368231704837867107&rtpof=true&sd=true](https://youtu.be/WQRdTBl1lMM))
+- 📹 [Youtube]() , ([https://docs.google.com/presentation/d/1pmBbn0NuesvNO-vzAuRdGg0Ph0q09odh/edit?usp=sharing&ouid=116368231704837867107&rtpof=true&sd=true](https://youtu.be/WQRdTBl1lMM))
 
 ## Project 1
 
@@ -9,7 +9,7 @@
 
 * 목적
     *  머신러닝을 활용하여 유통 산업 데이터를 기반으로 구매감소 고객 예측 및 솔루션 구축
-* 과정
+* 프로세스
 ![제목을 입력해주세요_-006](https://user-images.githubusercontent.com/96768479/175240113-aeb1775d-1669-4d22-bc63-34bedfa1ae4d.png)
 
 
