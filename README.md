@@ -3,8 +3,16 @@
 - 👩🏻‍🏫 Cakd5 1st project
 - 📹 [Youtube]([https://docs.google.com/presentation/d/1pmBbn0NuesvNO-vzAuRdGg0Ph0q09odh/edit?usp=sharing&ouid=116368231704837867107&rtpof=true&sd=true](https://youtu.be/WQRdTBl1lMM)
 
-<h5 align='center'> Using Tech </h5>
 
+<h5 align='center'> Using Tech </h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SQL-6DB33F?style=flat-square&logo=SQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Pandas-005571?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Numpy-orange?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Sklearn-pink?style=flat-square&logo=Sklearn&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Surprise-yellow?style=flat-square&logo=Surprise&logoColor=white"/></a>&nbsp
+</p>
 ## Project 1
 프로젝트 기간: 2022.03.14~2022.04.04
 
