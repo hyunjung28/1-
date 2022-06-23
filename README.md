@@ -10,3 +10,4 @@ L사 멤버스 데이터 분석
 datasets: L사 멤버스 데이터
 
 사용모듈 : Python (Pandas,Numpy,Matplotlib,Seaborn,Sklearn,Surprise), Sql, JupyterNotebook, Colab
+![제목을 입력해주세요_-006](https://user-images.githubusercontent.com/96768479/175235451-56e00b71-014a-4537-ac8a-752e0f1bee02.png)
