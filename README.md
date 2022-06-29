@@ -28,7 +28,7 @@
 
 #### 👨‍👩‍👦‍👦 TeamMembers  
 
-- [`오주완`](https://github.com/joowaun93) &nbsp; 데이터 가공 및 탐색 , 기획 총괄
+- [`오주완`](https://github.com/joowaun93) &nbsp; 데이터 가공 및 탐색 , 기획
 - [`이재우`](https://github.com/leedaedoo2) &nbsp; 메인 모델링 작업, 데이터 탐색 및 전처리, 분석, 추천 시스템 개발
 - [`이현정`](https://github.com/hyunjung28) &nbsp; 데이터 가공 및 탐색, 분석, 기획 및 PT,인사이트 도출 및 마케팅 제언
 - [`김영수`](https://github.com/YsKim00) &nbsp; 비지니스 이슈 탐색
